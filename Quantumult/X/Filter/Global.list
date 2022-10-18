@@ -298,6 +298,8 @@ DOMAIN-SUFFIX,redditstatic.com,PROXY
 DOMAIN-SUFFIX,resilio.com,PROXY
 DOMAIN-SUFFIX,reuters.com,PROXY
 DOMAIN-SUFFIX,reutersmedia.net,PROXY
+DOMAIN-SUFFIX,jsdelivr.net.net,PROXY
+DOMAIN-SUFFIX,plot.ly,PROXY
 DOMAIN-SUFFIX,rfi.fr,PROXY
 DOMAIN-SUFFIX,rixcloud.com,PROXY
 DOMAIN-SUFFIX,roadshow.hk,PROXY
