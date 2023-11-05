@@ -1,4 +1,6 @@
 # (DNS Cache Pollution Protection)
+DOMAIN-SUFFIX,poecdn.net,PROXY
+DOMAIN-SUFFIX,poe.com,PROXY
 # > Google
 DOMAIN-SUFFIX,ampproject.org,PROXY
 DOMAIN-SUFFIX,appspot.com,PROXY
